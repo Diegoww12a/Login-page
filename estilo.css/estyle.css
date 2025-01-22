@@ -83,6 +83,7 @@ input{
 }
 button{
     margin-top: 90px;
+    cursor: pointer;
     background-color: rgb(245, 83, 237);
     border: none;
     height: 50px;
